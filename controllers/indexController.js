@@ -1,5 +1,5 @@
 exports.homePage = (req, res, next) => {
-    res.render('index', { title: 'Express' });
+    res.render('index', { title: 'Davinder Kaur' });
   };
 
 exports.aboutMe = (req, res, next) => {
