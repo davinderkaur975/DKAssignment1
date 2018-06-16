@@ -1,4 +1,4 @@
-/* File name: header.ejs
+/* File name: indexController.js
      Author's name: Davinder Kaur
      Website name: dkassignment1.azurewebsites.net
      File Description: This file is rendering the view of all the pages. */
