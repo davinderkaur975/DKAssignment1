@@ -4,7 +4,7 @@ const indexController = require('../controllers/indexController')
 
 var router = express.Router();
 
-/* GET home page. */
+/* GET all the page. */
 router.get('/', indexController.homePage);
 
 router.get('/aboutMe', indexController.aboutMe);

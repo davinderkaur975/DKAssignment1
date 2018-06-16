@@ -1,3 +1,4 @@
+/* It is rendering each view */
 exports.homePage = (req, res, next) => {
     res.render('index', { title: 'Davinder Kaur' });
   };
